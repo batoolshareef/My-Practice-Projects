@@ -1,0 +1,9 @@
+Objective:
+Help an organization to improve employee performance and improve retention (reduce attrition) by creating a HR Analytics dashboard 
+
+Project Learning:
+- Identified key factors to reduce attrition.
+- Improved the hiring process
+- Improve employee experience
+- Made workforce more productive
+- Gained employee trust
